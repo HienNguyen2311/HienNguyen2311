@@ -6,7 +6,7 @@ As an inquisitive problem-solver, I'm passionate about uncovering insights hidde
 
 # Machine Learning & AI Projects 👾
 
-### [London Energy Forecasting](https://github.com/HienNguyen2311/facial-expression-recognition)
+### [London Energy Forecasting](https://github.com/HienNguyen2311/london-energy-forecasting)
 
 A comparative analysis of forecasting models evaluates classical statistical, machine learning, and deep learning approaches using the London Smart Meters dataset to identify the most effective method for predicting household energy consumption
 
