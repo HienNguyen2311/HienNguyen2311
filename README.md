@@ -6,9 +6,13 @@ As an inquisitive problem-solver, I'm passionate about uncovering insights hidde
 
 # Machine Learning & AI Projects 👾
 
+### [Deals Agents](https://github.com/HienNguyen2311/deals_agents)
+
+This project is a modular agent-based framework that automates product price estimation and deal discovery in e-commerce by integrating advanced LLMs, machine learning, and retrieval technologies, featuring real-time interactive dashboards, and leveraging cloud and vector databases for scalable, explainable pricing.
+
 ### [London Energy Forecasting](https://github.com/HienNguyen2311/london-energy-forecasting)
 
-A comparative analysis of forecasting models evaluates classical statistical, machine learning, and deep learning approaches using the London Smart Meters dataset to identify the most effective method for predicting household energy consumption
+A comparative analysis of forecasting models evaluates classical statistical, machine learning, and deep learning approaches using the London Smart Meters dataset to identify the most effective method for predicting household energy consumption.
 
 ### [Facial Expression Recognition](https://github.com/HienNguyen2311/facial-expression-recognition)
 
