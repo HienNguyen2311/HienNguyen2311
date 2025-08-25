@@ -4,7 +4,17 @@ I am Vietnamese, a local from HCMC, but I am currently living and working in New
 
 As an inquisitive problem-solver, I'm passionate about uncovering insights hidden within data to drive meaningful change and tackle real-world challenges. I'm particularly captivated by the potential of AI and machine learning to solve complex problems, always seeking to understand the "how" and "why" behind each challenge.
 
-# Machine Learning & AI Projects 👾
+---
+
+# 🚀 Featured & Recent Projects
+
+### [Salary Prediction App](https://github.com/HienNguyen2311/SDS-CP032-mlpaygrade/tree/hien-nguyen/submissions/team-members/hien-nguyen)
+
+A data-driven salary prediction app and modeling framework that leverages machine learning and explainable AI to estimate and benchmark annual salaries for tech and data roles based on user input and global compensation datasets.
+
+---
+
+# 👾 Machine Learning & AI Projects
 
 ### [Deals Agents](https://github.com/HienNguyen2311/deals_agents)
 
@@ -18,7 +28,9 @@ A comparative analysis of forecasting models evaluates classical statistical, ma
 
 This project develops efficient and explainable facial expression recognition methods using genetic programming and symbolic regression to capture nuanced emotions in the continuous arousal-valence space within unconstrained environments.
 
-# Learning & Practice Projects 👩‍💻
+---
+
+# 👩‍💻 Learning & Practice Projects
 
 ### [Chest X-ray Images Generation](https://github.com/HienNguyen2311/chest-xray-images-generation)
 
