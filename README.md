@@ -8,7 +8,7 @@ As an inquisitive problem-solver, I'm passionate about uncovering insights hidde
 
 # 🚀 Featured & Recent Projects
 
-### [Salary Prediction App](https://github.com/HienNguyen2311/SDS-CP032-mlpaygrade/tree/hien-nguyen/submissions/team-members/hien-nguyen)
+### [Salary Prediction](https://github.com/HienNguyen2311/SDS-CP032-mlpaygrade/tree/hien-nguyen/submissions/team-members/hien-nguyen)
 
 A data-driven salary prediction app and modeling framework that leverages machine learning and explainable AI to estimate and benchmark annual salaries for tech and data roles based on user input and global compensation datasets.
 
